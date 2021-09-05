@@ -1,2 +1,2 @@
 # CRUD-using-MERN-
-Basic crud operations performed using React, Node ( express ) and mongodb  
+Performed basic create, read, update and delete operations using React, Node, Express, Mongodb. 
